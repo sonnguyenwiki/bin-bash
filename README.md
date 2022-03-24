@@ -1,4 +1,4 @@
-#This shell cli created by Son Nguyen
+# This shell cli created by Son Nguyen
 ### How to setup new project
 * In magento folder run this command:
 ````
